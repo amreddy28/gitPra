@@ -4,3 +4,4 @@ tst2
 master line
 f2
 f3
+f4
